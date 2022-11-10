@@ -1,1 +1,3 @@
-# Anti-cancer_activity_prediction
+# Anti-cancer Activity Prediction
+
+*Kaggle* => https://www.kaggle.com/competitions/cisc873-dm-f22-a6
